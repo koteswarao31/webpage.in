@@ -1,0 +1,33 @@
+a{
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.card img{
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+}
+.card{
+ 
+  width: 250px;
+  padding: 16px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px gray ;
+}
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-left: 50px;
+  height: 200px;
+
+}
+
+
+
+
+
+
+
+
